@@ -4,7 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "cy:open": "npx cypress open --browser chrome",
+    "cy:open:edge": "npx cypress open --browser edge",
+    "cy:open:env": "npx cypress open --config-file cypress.env.config.js --browser edge",
+    "cy:open:headless": "npx cypress run --browser chrome"
   },
   "author": "scherbakov",
   "license": "ISC",

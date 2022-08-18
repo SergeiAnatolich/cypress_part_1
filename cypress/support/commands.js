@@ -1,5 +1,4 @@
 Cypress.Commands.add("login", (mail, password) => {
-  cy.visit("localhost:3000");
   cy.contains("Log in").click();
   cy.get("#mail").type(mail);
   cy.get("#pass").type(password);
