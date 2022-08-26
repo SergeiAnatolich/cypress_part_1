@@ -1,5 +1,6 @@
 {
   "validUser": [
-    {"mail": "test@test.com", "pass": "test"}
+    { "mail": "test@test.com", "pass": "test" },
+    { "mail": "bropet@mail.ru", "pass": "123" }
   ]
 }

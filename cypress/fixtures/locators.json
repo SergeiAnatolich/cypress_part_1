@@ -1,0 +1,22 @@
+{
+  "mainPage": {
+    "login": "Log in",
+    "loginForm": {
+      "loginInput": "#mail",
+      "passwordInput": "#pass",
+      "submitButton": "Submit"
+    }
+  },
+  "booksPage": {
+    "addNew": "Add new",
+    "title": "#title",
+    "description": "#description",
+    "authors": "#authors",
+    "booksList": "Books list",
+    "bookTitle": ".card-title",
+    "favorites": "Favorites",
+    "delete": "Delete from favorite",
+    "addFavorite": "Add to favorite",
+    "submitButton": "Submit"
+  }
+}

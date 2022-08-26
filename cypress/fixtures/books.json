@@ -1,7 +1,19 @@
 {
-    "books": [
-      {"title": "MyFirstBook", "description": "this is a description of my first book", "author": "author of the first book"},
-      {"title": "MySecondBook", "description": "this is a description of my second book", "author": "author of the second book"},
-      {"title": "MyThirdBook", "description": "this is a description of my third book", "author": "author of the third book"}
-    ]
-  }
+  "books": [
+    {
+      "title": "MyFirstBook",
+      "description": "this is a description of my first book",
+      "author": "author of the first book"
+    },
+    {
+      "title": "MySecondBook",
+      "description": "this is a description of my second book",
+      "author": "author of the second book"
+    },
+    {
+      "title": "MyThirdBook",
+      "description": "this is a description of my third book",
+      "author": "author of the third book"
+    }
+  ]
+}
